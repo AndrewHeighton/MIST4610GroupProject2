@@ -4,7 +4,7 @@
 
 ### Team Members
 #### Lauren Harville - @4610LaurenGit
-#### Andrew Heighton - @AndrewHeighton
+#### Andrew Heighton - [@AndrewHeighton](https://github.com/AndrewHeighton/MIST4610GroupProject2-.git)
 #### Asanti Kumera - @asanti00
 #### Aidan Pfeiffer - @abp80036
 #### Doc Rush - @docrush
